@@ -1,0 +1,14 @@
+.Page {
+    text-align: center;
+}
+
+.Page-header {
+    background-color: #2a344b;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
